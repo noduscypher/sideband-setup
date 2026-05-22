@@ -22,7 +22,7 @@ Add to `~/.reticulum/config`:
 [[RawMesh TCP]]
   type = TCPClientInterface
   enabled = yes
-  target_host = 192.168.0.170
+  target_host = 192.168.1.100
   target_port = 4242
 ```
 
